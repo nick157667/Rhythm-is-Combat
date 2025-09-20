@@ -1,7 +1,0 @@
-WrongHit, clicked at 1.832 seconds
-NormalHit, clicked at 2.345 seconds
-WrongHit, clicked at 4.229 seconds
-WrongHit, clicked at 8.112 seconds
-WrongHit, clicked at 8.811 seconds
-WrongHit, clicked at 9.242 seconds
-WrongHit, clicked at 10.099 seconds
