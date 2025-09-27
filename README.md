@@ -15,3 +15,18 @@
 
 # 遊戲架構圖
 <img width="1269" height="479" alt="遊戲架構圖" src="https://github.com/user-attachments/assets/7f7f10a0-bf97-4966-853e-6918ef7687db" />
+
+# 遊戲核心技術
+
+## 基於擴散模型的音樂生成
+玩家輸入的提示詞先由 CLIP 模型轉換為語意向量，作為條件輸入（conditioning）。生成過程中，初始化的 latent 音訊張量與提示詞向量一同傳入 dpmpp_3m_sde 取樣器，以連續擴散方式進行100次的去噪推理，最終輸出經 VAE 解碼為真實音訊波形，並儲存為 .flac 檔
+<img width="916" height="205" alt="擴散模型" src="https://github.com/user-attachments/assets/c8f09bde-8aed-4e57-b780-6d3e83231bf2" />
+
+## ComfyUI工作流
+
+## 分析音樂
+
+
+## 避障行為 
+
+
