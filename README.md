@@ -26,10 +26,8 @@
 ## ComfyUI工作流
 <img width="1599" height="564" alt="ComfyUI" src="https://github.com/user-attachments/assets/05c719c1-32b3-46fa-b607-5d05a5b888d1" />
 
-
-
 ## 分析音樂
-
+利用 BurstFFT 分析器對音訊進行節奏偵測。音訊被切分為每 1024 點一幀、間隔 512 點的波形資料，透過 Burst 加速的 FFT 演算法轉換為頻率域，並提取低頻能量作為節奏依據。
 
 ## 避障行為 
 
