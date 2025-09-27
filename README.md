@@ -24,6 +24,9 @@
 <img width="916" height="205" alt="擴散模型" src="https://github.com/user-attachments/assets/c8f09bde-8aed-4e57-b780-6d3e83231bf2" />
 
 ## ComfyUI工作流
+<img width="1599" height="564" alt="ComfyUI" src="https://github.com/user-attachments/assets/05c719c1-32b3-46fa-b607-5d05a5b888d1" />
+
+
 
 ## 分析音樂
 
