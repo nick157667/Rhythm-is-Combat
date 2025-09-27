@@ -1,11 +1,13 @@
 # Rhythm-is-Combat
 [demo影片](https://youtu.be/swUgUA5DlT8?si=62gDe4qnIsStRrcp)
 
-# 指導教授
-李同益 講座教授
+
 
 # 組員
 張育銓、周柏儒
+
+# 指導教授
+李同益 講座教授
 
 
 # 專題簡介
