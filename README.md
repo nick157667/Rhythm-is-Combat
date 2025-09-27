@@ -34,4 +34,6 @@
 - RVO 考量鄰近移動物體的速度與方向，並結合「速度障礙區」的概念，讓代理在移動前預測潛在碰撞區域，並與對方共同承擔「一半」的避障責任，使整體移動行為更加自然流暢。
 <img width="1117" height="390" alt="RVO" src="https://github.com/user-attachments/assets/8f3dffbf-1021-4ff5-934d-2d9f221c151e" />
 
+# 遊戲畫面
+<img width="646" height="379" alt="GAME" src="https://github.com/user-attachments/assets/a39c09ba-0594-492c-9292-a33e0aa396e2" />
 
