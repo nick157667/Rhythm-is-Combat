@@ -30,5 +30,8 @@
 利用 BurstFFT 分析器對音訊進行節奏偵測。音訊被切分為每 1024 點一幀、間隔 512 點的波形資料，透過 Burst 加速的 FFT 演算法轉換為頻率域，並提取低頻能量作為節奏依據。
 
 ## 避障行為 
+- 核心思想是透過 NavMesh.CalculatePath() 計算全局的可行路徑，再由 RVO（Reciprocal Velocity Obstacles）調整局部的移動方向。
+- RVO 考量鄰近移動物體的速度與方向，並結合「速度障礙區」的概念，讓代理在移動前預測潛在碰撞區域，並與對方共同承擔「一半」的避障責任，使整體移動行為更加自然流暢。
+<img width="1117" height="390" alt="RVO" src="https://github.com/user-attachments/assets/8f3dffbf-1021-4ff5-934d-2d9f221c151e" />
 
 
